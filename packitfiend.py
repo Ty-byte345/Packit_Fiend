@@ -11,11 +11,6 @@ from scapy.all import sniff, IP
 import struct
 import ipaddress
 from datetime import datetime
-import subprocess
-import platform
-import threading
-import queue
-import json
 import nmap
 
 def scan_targets(targets, port_range, save_to_file=False):
