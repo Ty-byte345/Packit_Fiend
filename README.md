@@ -20,8 +20,13 @@ The tool provides an interactive interface for pentesters to quickly navigate be
 1. Port scan your target and identify open ports.  
 2. Start sniffing the network and capture valuable packets.  
 3. Discover all devices on the network.  
-4. If you're in post-exploitation mode, execute commands, upload payloads, and get system info. 
+4. If you're in post-exploitation mode, execute commands, upload payloads, and get system info.
 
 The tool is designed with Python, leveraging libraries like `scapy`, `socket`, and `platform`, ensuring flexibility and powerful scanning capabilities. 🐍⚡
 
 
+Packit Fiend is intended for educational and research purposes only. This tool is designed to help cybersecurity professionals, researchers, and ethical hackers test network security and improve defenses. Unauthorized use of this tool against systems you do not own or have explicit permission to test is illegal and unethical.
+
+The developer(s) of Packit Fiend assume no responsibility for any misuse, damage, or legal consequences resulting from the use of this tool. It is the sole responsibility of the user to ensure compliance with all applicable laws and regulations.
+
+By using Packit Fiend, you agree to use it responsibly and only in environments where you have explicit authorization.
