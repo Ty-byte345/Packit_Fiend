@@ -1,5 +1,6 @@
 # Packit_Fiend
-![PacketFiendLogo-3](https://github.com/user-attachments/assets/6c8a670d-7f4f-4584-b12b-ad48abd292cf)
+![PacketFiendLogo-3](https://github.com/user-attachments/assets/77aa0dd8-f437-4ebd-93f2-f6d7b0c1b9df)
+
 A Python-based network pentesting tool designed for security assessments and exploitation simulations.
 I’ve been working on an ongoing personal pentesting project to test my skills and implement my knowledge in the art of cybersecurity & pentesting,and I’m excited to share the details with you. Meet **pACKit_fi3ND**, a comprehensive pentesting tool that can be used for:
 
